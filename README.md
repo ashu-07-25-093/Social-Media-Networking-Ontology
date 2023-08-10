@@ -1,1 +1,1 @@
-# Social-Networking-Platform-Ontology
+# Social-Media-Networking-Ontology
